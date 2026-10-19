@@ -42,7 +42,7 @@ L’objectiu d’aquest exercici és aprofundir en els conceptes relacionats amb
  ## Rúbrica d’avaluació
 
 > [!CAUTION]
-> Atenció: l’incompliment de les instruccions de lliurament impliquen la NO correcció de la pràctica i una nota de 0 punts. Cal seguir totes les > instruccions estrictament al peu de la lletra.
+> Atenció: l’incompliment de les instruccions de lliurament impliquen la NO correcció de la pràctica i una nota de 0 punts. Cal seguir totes les instruccions estrictament al peu de la lletra.
 
 
 
