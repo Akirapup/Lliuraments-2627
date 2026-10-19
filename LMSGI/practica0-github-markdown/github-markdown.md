@@ -8,7 +8,7 @@
 > **Desenvolupament**: En parelles.
 
 > [!IMPORTANT]
-> **Lliurament**: A través del Moodle en format presentació (odt, ppt, pptx o pdf).
+ **Lliurament**: A través del Moodle en format presentació (odt, ppt, pptx o pdf).
  ## Enunciat
 
 L’objectiu d’aquest exercici és aprofundir en els conceptes relacionats amb les característiques inherents als llenguatges de marques mitjançant la creació d’un *llenguatge propi*, heu de tenir en compte que, per a poder classificar la vostra creació com a llenguatge de marques, s’han de complir una sèrie de requisits:
