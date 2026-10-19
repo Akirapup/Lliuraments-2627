@@ -48,7 +48,7 @@ L’objectiu d’aquest exercici és aprofundir en els conceptes relacionats amb
 
 # Rúbrica d’avaluació
 
-| Criteri | 0 punts | 0,5 punts | 1 punt |
+|  | 0 punts | 0,5 punts | 1 punt |
 |---|---|---|---|
 | Introducció als llenguatges de marques | No s’ha realitzat o conté errors molt greus. | Explicació superficial o amb errors lleus. | Explicació clara, detallada i correcta. |
 | Explicació del llenguatge i regles d’ús | No s’ha realitzat o conté errors molt greus. | Explicació superficial o amb errors lleus. | Explicació clara, detallada i correcta. |
